@@ -108,7 +108,7 @@ Performance results and graphs will be added as the project progresses.
 | Bhargavi | TBD          |
 | Madhura  | TBD          |
 | Shamita  | TBD          |
-| Priyanka | TBD          |
+| Priyanka | MPI BFS implementation (src/MPI/bfs_mpi.c), MPI vs OpenMP correctness checks, scaling experiments (processes and graph size) |
 
 Individual contributions will be documented as the project develops.
 
