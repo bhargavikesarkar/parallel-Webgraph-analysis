@@ -105,9 +105,9 @@ Performance results and graphs will be added as the project progresses.
 
 | Member   | Contribution |
 | -------- | ------------ |
-| Bhargavi | TBD          |
-| Madhura  | TBD          |
-| Shamita  | TBD          |
+| Bhargavi | Data Preprocessing and sequential BFS implementation|         |
+| Madhura  | OpenMp BFS implementation         |
+| Shamita  | Analysis of OPenMP,MPI and sequential         |
 | Priyanka | MPI BFS implementation (src/MPI/bfs_mpi.c), MPI vs OpenMP correctness checks, scaling experiments (processes and graph size) |
 
 Individual contributions will be documented as the project develops.
